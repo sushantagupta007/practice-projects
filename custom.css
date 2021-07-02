@@ -1,0 +1,39 @@
+#title{
+    margin: 0 auto;
+    text-align: center;
+}
+li{
+    list-style-type: none;
+    display: inline-block;
+}
+
+li a{ 
+    padding:0 1rem;
+    text-align: center;
+    font-size: 1.2rem;
+    color:black;
+    cursor: pointer;
+
+}
+a:hover{
+    background-color: brown;
+    color:#ddd;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+#main{
+    margin: 0 auto;
+}
+
+#main p{
+    text-align: justify;
+    font-size: 1rem;
+}
+#album{
+    margin-left: 1.5rem;
+}
+#album img{
+    width:20rem;
+    height:16rem;
+}
